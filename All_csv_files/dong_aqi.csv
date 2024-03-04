@@ -1,0 +1,13 @@
+,PM2.5_AQI,PM10_AQI,SO2_AQI,NO2_AQI,CO_AQI,O3_AQI,AQI,Polutan,Kategori
+Jan,129,64,28,48,17,0,129,PM2.5_AQI,Tidak sehat untuk golongan sensitif
+Feb,94,48,22,32,10,0,94,PM2.5_AQI,Sedang
+Mar,154,91,28,52,14,0,154,PM2.5_AQI,Tidak sehat
+Apr,141,79,15,41,9,0,141,PM2.5_AQI,Tidak sehat untuk golongan sensitif
+Mei,137,63,13,38,9,19,137,PM2.5_AQI,Tidak sehat untuk golongan sensitif
+Jun,126,54,7,34,8,20,126,PM2.5_AQI,Tidak sehat untuk golongan sensitif
+Jul,128,53,6,29,10,15,128,PM2.5_AQI,Tidak sehat untuk golongan sensitif
+Ag,120,48,4,37,11,7,120,PM2.5_AQI,Tidak sehat untuk golongan sensitif
+Sep,119,52,6,47,10,0,119,PM2.5_AQI,Tidak sehat untuk golongan sensitif
+Okt,150,77,9,60,14,0,150,PM2.5_AQI,Tidak sehat untuk golongan sensitif
+Nov,174,93,21,67,21,0,174,PM2.5_AQI,Tidak sehat
+Des,211,126,31,74,29,0,211,PM2.5_AQI,Sangat tidak sehat
